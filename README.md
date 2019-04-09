@@ -24,4 +24,4 @@
    C#, WPF, Winform, Console
 
 ## Mobile Application
-   Kotlin, java, swift
+   Kotlin, java, swift 
