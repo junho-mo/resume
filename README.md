@@ -9,3 +9,19 @@
 * Github : [github.com/junho-mo](https://github.com/junho-mo)
 * blog : funny7103.blog.me
 
+
+# Skills
+
+## Front-End
+   angular, angularjs, vuejs, asp.net, asp, jsp, php
+   jquery, ES6, HTML, CSS
+
+## Back-End
+   node.js, nginx, tomcat, apache
+   Window Server(IIS), Linux
+
+## Window Application
+   C#, WPF, Winform, Console
+
+## Mobile Application
+   Kotlin, java, swift
